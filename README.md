@@ -5,7 +5,7 @@
 <br/>
 
 ## :white_check_mark: 섹션 0
-
+[c++ 교안 실습 repo](https://github.com/mmtos/cpp_get_started)
 <br/>
 
 ## :white_check_mark: 섹션 1
