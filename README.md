@@ -28,7 +28,7 @@
 - 13913
 - 17071
 - 14497
-- 3197
+- [3197](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/3197.md) - 시간초과 ( mmtos help!!! )
 - [1987](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/1987.md)
 - 2529
 - [9934](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/9934.md)
