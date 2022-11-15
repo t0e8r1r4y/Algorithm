@@ -31,7 +31,7 @@
 - 3197
 - [1987](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/1987.md)
 - 2529
-- 9934
+- [9934](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/9934.md)
 - 15684
 - 14620
 - 1189
