@@ -9,6 +9,7 @@
 <br/>
 
 ## :white_check_mark: 섹션 1
+- [9375](https://github.com/t0e8r1r4y/Algorithm/blob/main/1week/9375.md)
 
 <br/>
 
