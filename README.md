@@ -49,8 +49,8 @@
 > 이렇게 문제를 접근해본다. 그리고 그리디 풀이에 대해서 강사님은 자주나오는 풀이를 외워라! 이렇게 말씀하심.
 
 - Greedy의 가장 많은 풀이방법
-  - 정렬을 사용하는 방법 ([1931]() : 회의실 배정 )
-  - 우선순위 큐를 사용하는 방법( [1202]() : 보석 도둑)
+  - 정렬을 사용하는 방법 ([1931](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1931.md) : 회의실 배정 )
+  - 우선순위 큐를 사용하는 방법( [1202](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1202.md) : 보석 도둑)
   
 - 라인스위핑
 - 투포인터
@@ -60,8 +60,8 @@
 - 9935
 - 1781
 - 14469
-- 1931
-- 1202
+- [1931](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1931.md)
+- [1202](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1202.md)
 - 1644
 - 13144
 - 3273
