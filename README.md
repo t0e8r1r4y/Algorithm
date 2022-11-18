@@ -58,7 +58,7 @@
 :warning: 풀이 문제
 - 2109
 - 9935
-- 1781
+- [1781](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1781.md)
 - 14469
 - [1931](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1931.md)
 - [1202](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1202.md)
