@@ -18,7 +18,7 @@
 ## :white_check_mark: 섹션 2
 - 1992
 - 2828
-- 2870
+- [2870](https://github.com/t0e8r1r4y/Algorithm/blob/main/2week/2870.md) - 정수 범위와 문자열 출력, 그리고 문자열을 N번에 다룰 때 새로운 문자열을 생성해서 처리하는 것이 간편한 예제
 - 2852
 - 1450
 - 2636
