@@ -17,11 +17,11 @@
 
 ## :white_check_mark: 섹션 2
 - 1992
-- 2828
-- [2870](https://github.com/t0e8r1r4y/Algorithm/blob/main/2week/2870.md) - 정수 범위와 문자열 출력, 그리고 문자열을 N번에 다룰 때 새로운 문자열을 생성해서 처리하는 것이 간편한 예제
+- [2828](https://github.com/t0e8r1r4y/Algorithm/blob/main/2week/2828.md) - 규칙 찾기?
+- [2870](https://github.com/t0e8r1r4y/Algorithm/blob/main/2week/2870.md) - 정수 범위와 문자열 출력, 그리고 `문자열을 N번에 다룰 때` `새로운 문자열을 생성`해서 처리하는 것이 간편한 예제
 - 2852
 - 1450
-- [2636](https://github.com/t0e8r1r4y/Algorithm/blob/main/2week/2636.md) - 치즈 판별은 1이 아닌 0을 기준으로 바라본다.
+- [2636](https://github.com/t0e8r1r4y/Algorithm/blob/main/2week/2636.md) - 치즈 판별은 1이 아닌 `0을 기준`으로 바라본다.
 
 
 <br/>
