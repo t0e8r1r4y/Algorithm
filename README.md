@@ -5,6 +5,15 @@
 <br/>
 
 
+## :white_check_mark: 해당 교안과 더불어 아래 내용들도 함께 정리합니다.
+- java 언어 문제 풀이 : 특정 회사들에서는 백엔드로 java만 요구하는 경우가 있어, c++ 만큼 java로도 풀 수 있어야 함.
+- programmers : 현재 가장 많은 회사들에서 사용하는 플랫폼
+- leetcode : 점점 대세가 되어가는 플랫폼
+- 기타 : 해커랭크 등등 ( 경로는 기타 아래에 플랫폼 별 디렉토리를 나는다 )
+
+
+<br/>
+
 
 ## :white_check_mark: 섹션 0
 [c++ 교안 실습 repo](https://github.com/mmtos/cpp_get_started)
