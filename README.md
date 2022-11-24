@@ -41,7 +41,7 @@
 - 16234
 - [4179](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/4179.md) - 생각하는 방식 전환 필요
 - 12869
-- 16637
+- 16637 - [풀이정리](https://terrys-tech-log.tistory.com/8)
 - 12851
 - 13913
 - 17071
@@ -74,7 +74,7 @@
 :warning: 풀이 문제
 - 2109 - 1781번과 풀이는 동일합니다. 다만 시간복잡도 측면에서 반드시 1781 풀면서 있었던 이슈 꼭 참고할 것! ( `우선순위 큐와 벡터의 정렬 속도 차이` )
 - 9935
-- [1781](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1781.md)
+- [1781](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1781.md) - [풀이 정리](https://terrys-tech-log.tistory.com/3)
 - 14469
 - [1931](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1931.md)
 - [1202](https://github.com/t0e8r1r4y/Algorithm/blob/main/5week/1202.md)
