@@ -41,7 +41,7 @@
 - 16234
 - [4179](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/4179.md) - 생각하는 방식 전환 필요
 - 12869
-- 16637 - [풀이정리](https://terrys-tech-log.tistory.com/8)
+- [16637](https://github.com/t0e8r1r4y/Algorithm/blob/main/3week/16637.c) - [풀이정리](https://terrys-tech-log.tistory.com/8)
 - 12851
 - 13913
 - 17071
